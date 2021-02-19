@@ -18,6 +18,17 @@ BatchLZ77: For LZ11 compression
 
 https://gbatemp.net/download/batchlz77.11736/
 
+
+# General info
+
+TODS3 files are in the root folder, not all of them have text.
+
+CTODS3 and TODS9 files are in the 'item' folder.
+
+Scripts are in the 'm' folder, when extracted, you need to decompress the SCP files (LZ11).
+
+Skits are in the 'fc' folder, 'fcscr.b' and 'fcscr.dat', you need to decompress them (LZ11).
+
 # Instructions
 
 ### Extracting/Inserting files
@@ -60,3 +71,8 @@ If you want to replace the fps4 files like m.b and m.dat, I recommend using DSLa
 
 3 - Translate the text files and run "insert_filetype.bat" to create a new folder with the translated files.
 
+# Help needed
+
+Extracting and inserting the script/skits: TSS files.
+
+Extracting and inserting overlay files.
